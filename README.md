@@ -1,27 +1,32 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/suyash-jain-3483b4208/)
-
-
+[![MasterHead](https://drive.google.com/file/d/1mTKOfGVtVLGlHkvge9pVyPX8Db-zeAJf/view?usp=sharing)](https://www.linkedin.com/in/suyash-jain-3483b4208/)
 <h1 align="center">Hi 👋, I'm Suyash Jain</h1>
 <h3 align="center">An enthusiastic UI/UX Designer, Video-Editor and a skilled C++ coder hailing from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj0110&label=Profile%20views&color=0e75b6&style=flat" alt="sj0110" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sj0110" alt="sj0110" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [Sentiment Analysis on Amazon Fine Food Reviews](https://www.kaggle.com/code/jainsuyash2003/summer-internship)
+
 - 🌱 I’m currently learning **DSA, DBMS, OS, UI/UX, Video-Editing**
 
-- 📝 I keep updating my designs here [https://www.behance.net/suyashjain1](https://www.behance.net/suyashjain1)
+- 👯 My Old YouTube Channel [TechBirdie](https://www.youtube.com/@techbirdie4469)
+
+- 🤝 I’m looking for help with **Flutter Development**
+
+- 👨‍💻 Have a look at my Design Resume here [https://drive.google.com/file/d/1Kn_q8jUkQNHEJ9mRyg2O7_P94AMcnx3t/view?usp=drive_link](https://drive.google.com/file/d/1Kn_q8jUkQNHEJ9mRyg2O7_P94AMcnx3t/view?usp=drive_link)
+
+- 📝 I keep updating my Designs here [https://www.behance.net/suyashjain1](https://www.behance.net/suyashjain1)
 
 - 💬 Ask me about **C++, UI/UX, Design, Editing**
 
 - 📫 How to reach me **202051189@iiitvadodara.ac.in**
 
-- 📄 Have a look at my resume [https://drive.google.com/file/d/1QgYWRZMwF-XygYlP6ecwJMZdmAGpESRz/view?usp=sharing](https://drive.google.com/file/d/1QgYWRZMwF-XygYlP6ecwJMZdmAGpESRz/view?usp=sharing)
+- 📄 Have a look at my Technical Resume here [https://drive.google.com/file/d/1QgYWRZMwF-XygYlP6ecwJMZdmAGpESRz/view?usp=sharing](https://drive.google.com/file/d/1QgYWRZMwF-XygYlP6ecwJMZdmAGpESRz/view?usp=sharing)
 
-- ⚡ Fun fact **UI/UX + Coding is no cakewalk !**
+- ⚡ Fact **UI/UX + Coding is no cakewalk !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
