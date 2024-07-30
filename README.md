@@ -1,22 +1,21 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://www.linkedin.com/in/suyash-jain-3483b4208/)
 <h1 align="center">Hi 👋, I'm Suyash Jain</h1>
-<h3 align="center">An enthusiastic UI/UX Designer, Video-Editor and a skilled C++ coder hailing from India.</h3>
+<h3 align="center">A Web-Dev enthusiast, UI/UX Designer, Video-Editor and a skilled C++ coder hailing from India.</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on [Sentiment Analysis on Amazon Fine Food Reviews](https://www.kaggle.com/code/jainsuyash2003/summer-internship)
-
-- 🌱 I’m currently learning **DSA, DBMS, OS, UI/UX, Video-Editing**
+- 🔭 I’m currently working as [Analyst-DM&A at Searce.](www.searce.com)
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 My Old YouTube Channel [TechBirdie](https://www.youtube.com/@techbirdie4469)
 
-- 🤝 I’m looking for help with **Flutter Development**
+- 🤝 I’m looking for help with learning **Web Development & DSA**
 
 - 👨‍💻 Have a look at my Design Resume here [https://drive.google.com/file/d/1Kn_q8jUkQNHEJ9mRyg2O7_P94AMcnx3t/view?usp=drive_link](https://drive.google.com/file/d/1Kn_q8jUkQNHEJ9mRyg2O7_P94AMcnx3t/view?usp=drive_link)
 
 - 📝 I keep updating my Designs here [https://www.behance.net/suyashjain1](https://www.behance.net/suyashjain1)
 
-- 💬 Ask me about **C++, UI/UX, Design, Editing**
+- 💬 Ask me about **Web-Dev, C++, UI/UX, Design, Editing**
 
 - 📫 How to reach me **202051189@iiitvadodara.ac.in**
 
