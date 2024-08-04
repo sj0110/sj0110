@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Web-Dev, C++, UI/UX, Design, Editing**
 
-- 📫 How to reach me **202051189@iiitvadodara.ac.in**
+- 📫 How to reach me **jainsuyash2003@gmail.com**
 
 - 📄 Have a look at my Technical Resume here [https://drive.google.com/file/d/1QgYWRZMwF-XygYlP6ecwJMZdmAGpESRz/view?usp=sharing](https://drive.google.com/file/d/1QgYWRZMwF-XygYlP6ecwJMZdmAGpESRz/view?usp=sharing)
 
